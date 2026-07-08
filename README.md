@@ -33,6 +33,16 @@ Praticando manipulação do DOM e persistência de dados no navegador.
 
 ---
 
+### 📚 Prática diária
+
+#### 🐍 [exercicios-python](https://github.com/santisantos13/exercicios-python)
+
+Repositório dedicado à prática diária dos meus estudos de Python, organizado por tema
+(lógica condicional, dicionários, funções, listas, banco de dados). Meu espaço de consistência
+e evolução contínua.
+
+---
+
 ### 🗂️ Outros projetos
 
 | Projeto                                                                                 | Descrição                                             | Tecnologia |
