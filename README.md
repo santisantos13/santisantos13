@@ -1,10 +1,11 @@
 # Olá, sou o Santi 👋
-Desenvolvedor Python focado em back-end e front-end, cursando Análise e Desenvolvimento de Sistemas.
-Construindo projetos reais para consolidar habilidades — aberto a oportunidades em BH e remoto.
+
+Desenvolvedor Python focado em back-end e front-end, cursando Análise e Desenvolvimento de Sistemas. Construindo projetos reais para consolidar habilidades — aberto a oportunidades em BH e remoto.
 
 ---
 
 ### 🛠️ Tecnologias
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
@@ -21,6 +22,7 @@ Construindo projetos reais para consolidar habilidades — aberto a oportunidade
 ### 📌 Projeto em destaque
 
 #### 💰 [automacao-planilhas](https://github.com/santisantos13/automacao-planilhas)
+
 **Pipeline de automação em Python (pandas) para consolidação de relatórios financeiros a partir de planilhas Excel.**
 
 - Lê múltiplas abas (uma por mês) e faz a limpeza automática dos dados: remove cabeçalhos, linhas de resumo, datas inválidas e dias vazios
@@ -33,45 +35,49 @@ Construindo projetos reais para consolidar habilidades — aberto a oportunidade
 
 ### 🧰 Outros projetos em destaque
 
+#### 📦 [python-stock-manager](https://github.com/santisantos13/python-stock-manager)
+
+Sistema simples de gerenciamento de estoque em Python, feito para praticar lógica de programação e manipulação de dados.
+
 #### 🗄️ [CRUD com SQLite3](https://github.com/santisantos13/exercicios-python/blob/main/banco-de-dados/0_CRUD.py)
-Sistema completo de gerenciamento de usuários com banco de dados SQLite3.
-Implementa as operações CRUD (Create, Read, Update, Delete) com código limpo e bem estruturado.
-Exemplo prático de integração com banco de dados em Python.
+
+Sistema completo de gerenciamento de usuários com banco de dados SQLite3. Implementa as operações CRUD (Create, Read, Update, Delete) com código limpo e bem estruturado. Exemplo prático de integração com banco de dados em Python.
 
 #### ✅ [task-tracker-js](https://github.com/santisantos13/task-tracker-js)
-Lista de tarefas construída com JavaScript puro e `localStorage`, com README bilíngue (PT-BR/EN).
-Praticando manipulação do DOM e persistência de dados no navegador.
+
+Lista de tarefas construída com JavaScript puro e `localStorage`, com README bilíngue (PT-BR/EN). Praticando manipulação do DOM e persistência de dados no navegador.
 
 ---
 
 ### 📚 Prática diária
 
 #### 🐍 [exercicios-python](https://github.com/santisantos13/exercicios-python)
-Repositório dedicado à prática diária dos meus estudos de Python, organizado por tema
-(lógica condicional, dicionários, funções, listas, banco de dados). Meu espaço de consistência
-e evolução contínua.
+
+Repositório dedicado à prática diária dos meus estudos de Python, organizado por tema (lógica condicional, dicionários, funções, listas, banco de dados). Meu espaço de consistência e evolução contínua.
 
 ---
 
 ### 🗂️ Outros projetos
 
-| Projeto                                                                                 | Descrição                                             | Tecnologia |
-| --------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- |
-| [agenda-contatos-terminal](https://github.com/santisantos13/agenda-contatos-terminal)   | Agenda de contatos executada via terminal             | Python     |
-| [sistema-bancario-terminal](https://github.com/santisantos13/sistema-bancario-terminal) | Sistema bancário interativo — depósito, saque e saldo | Python     |
-| [jogo-da-forca](https://github.com/santisantos13/jogo-da-forca)                         | Jogo da forca simples executado pelo terminal         | Python     |
+| Projeto | Descrição | Tecnologia |
+|---|---|---|
+| [tela-login-nexplay](https://github.com/santisantos13/tela-login-nexplay) | Telas de login e cadastro com animações e transições | HTML, CSS |
+| [agenda-contatos-terminal](https://github.com/santisantos13/Agenda-_terminal) | Agenda de contatos executada via terminal | Python |
+| [sistema-bancario-terminal](https://github.com/santisantos13/Sistema-Banc-rio---Terminal-vers-o-1-) | Sistema bancário interativo — depósito, saque e saldo | Python |
+| [jogo-da-forca](https://github.com/santisantos13/Jogo_Forca) | Jogo da forca simples executado pelo terminal | Python |
+| [lampada](https://github.com/santisantos13/Lampada) | Teste rápido de lâmpada | JavaScript |
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=santisantos13&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santisantos13&layout=compact&theme=tokyonight" />
-</p>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=santisantos13&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santisantos13&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Contato
+
 📬 Aberto a oportunidades — vamos conversar!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santsantos/)
