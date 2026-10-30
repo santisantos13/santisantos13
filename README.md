@@ -61,7 +61,7 @@ Repositório dedicado à prática diária dos meus estudos de Python, organizado
 
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
-| [tela-login-nexplay](https://github.com/santisantos13/tela-login-nexplay) | Telas de login e cadastro com animações e transições | HTML, CSS |
+| [tela-login-nexplay](https://github.com/santisantos13/sistema-login) | Telas de login e cadastro com animações e transições | HTML, CSS |
 | [agenda-contatos-terminal](https://github.com/santisantos13/Agenda-_terminal) | Agenda de contatos executada via terminal | Python |
 | [sistema-bancario-terminal](https://github.com/santisantos13/Sistema-Banc-rio---Terminal-vers-o-1-) | Sistema bancário interativo — depósito, saque e saldo | Python |
 | [jogo-da-forca](https://github.com/santisantos13/Jogo_Forca) | Jogo da forca simples executado pelo terminal | Python |
