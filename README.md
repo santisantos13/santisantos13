@@ -84,5 +84,4 @@ Repositório dedicado à prática diária dos meus estudos de Python, organizado
 
 [![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-FFD000?style=flat-square&logoColor=black)](https://santisantos13.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santsantos/)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5531997925159)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/santisantos13)
