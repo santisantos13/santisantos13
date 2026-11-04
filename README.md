@@ -2,6 +2,8 @@
 
 Desenvolvedor Python focado em back-end e front-end, cursando Análise e Desenvolvimento de Sistemas. Construindo projetos reais para consolidar habilidades — aberto a oportunidades em BH e remoto.
 
+🌐 **Portfólio:** [santisantos13.github.io/portfolio](https://santisantos13.github.io/portfolio/)
+
 ---
 
 ### 🛠️ Tecnologias
@@ -14,7 +16,6 @@ Desenvolvedor Python focado em back-end e front-end, cursando Análise e Desenvo
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -61,6 +62,7 @@ Repositório dedicado à prática diária dos meus estudos de Python, organizado
 
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
+| [portfolio](https://github.com/santisantos13/portfolio) | Meu portfólio pessoal, responsivo e com animações de rolagem | HTML, CSS, JavaScript |
 | [tela-login-nexplay](https://github.com/santisantos13/sistema-login) | Telas de login e cadastro com animações e transições | HTML, CSS |
 | [agenda-contatos-terminal](https://github.com/santisantos13/Agenda-_terminal) | Agenda de contatos executada via terminal | Python |
 | [sistema-bancario-terminal](https://github.com/santisantos13/Sistema-Banc-rio---Terminal-vers-o-1-) | Sistema bancário interativo — depósito, saque e saldo | Python |
@@ -80,6 +82,7 @@ Repositório dedicado à prática diária dos meus estudos de Python, organizado
 
 📬 Aberto a oportunidades — vamos conversar!
 
+[![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-FFD000?style=flat-square&logoColor=black)](https://santisantos13.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santsantos/)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5531997925159)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/santisantos13)
