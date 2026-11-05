@@ -44,9 +44,7 @@ Sistema simples de gerenciamento de estoque em Python, feito para praticar lógi
 
 Sistema completo de gerenciamento de usuários com banco de dados SQLite3. Implementa as operações CRUD (Create, Read, Update, Delete) com código limpo e bem estruturado. Exemplo prático de integração com banco de dados em Python.
 
-#### ✅ [task-tracker-js](https://github.com/santisantos13/task-tracker-js)
-
-Lista de tarefas construída com JavaScript puro e `localStorage`, com README bilíngue (PT-BR/EN). Praticando manipulação do DOM e persistência de dados no navegador.
+#### ✅ Lista de tarefas construída com JavaScript puro e `localStorage`. [Ver demo](https://santisantos13.github.io/task-tracker-js/)
 
 ---
 
