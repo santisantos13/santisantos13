@@ -1,6 +1,6 @@
 # Olá, sou o Santi 👋
 
-Desenvolvedor Python focado em back-end e front-end, cursando Análise e Desenvolvimento de Sistemas. Construindo projetos reais para consolidar habilidades — aberto a oportunidades em BH e remoto.
+Desenvolvedor em formação, praticando Python (back-end) e HTML, CSS e JavaScript (front-end), cursando Análise e Desenvolvimento de Sistemas. Construindo projetos reais para consolidar habilidades — aberto a oportunidades em BH e remoto.
 
 🌐 **Portfólio:** [santisantos13.github.io/portfolio](https://santisantos13.github.io/portfolio/)
 
