@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1B1D3A&height=190&section=header&text=Santhiago%20Figueiredo&fontSize=42&fontColor=FFD000&fontAlignY=40&desc=Desenvolvimento%20Web&descSize=18&descColor=8F94A6&descAlignY=62" alt="Santhiago Figueiredo - Desenvolvimento Web" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1B1D3A&height=190&section=header&text=Santhiago%20Figueiredo&fontSize=42&fontColor=FFD000&fontAlignY=40&desc=Desenvolvimento%20Web&descSize=18&descColor=8F94A6&descAlignY=62" alt="Santhiago Figueiredo" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1600&color=FFD000&center=true&vCenter=true&width=640&height=40&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;HTML%2C+CSS+e+JavaScript+como+base;Python+e+SQL+como+complemento;Em+busca+do+primeiro+est%C3%A1gio">
