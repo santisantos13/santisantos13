@@ -1,85 +1,63 @@
-# Olá, sou o Santi 👋
+<div align="center">
 
-Desenvolvedor em formação, praticando Python (back-end) e HTML, CSS e JavaScript (front-end), cursando Análise e Desenvolvimento de Sistemas. Construindo projetos reais para consolidar habilidades — aberto a oportunidades em BH e remoto.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1B1D3A&height=190&section=header&text=Santhiago%20Figueiredo&fontSize=42&fontColor=FFD000&fontAlignY=40&desc=Desenvolvimento%20Web&descSize=18&descColor=8F94A6&descAlignY=62" alt="Santhiago Figueiredo - Desenvolvimento Web" width="100%" />
 
-🌐 **Portfólio:** [santisantos13.github.io/portfolio](https://santisantos13.github.io/portfolio/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1600&color=FFD000&center=true&vCenter=true&width=640&height=40&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;HTML%2C+CSS+e+JavaScript+como+base;Python+e+SQL+como+complemento;Em+busca+do+primeiro+est%C3%A1gio">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1600&color=1B1D3A&center=true&vCenter=true&width=640&height=40&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;HTML%2C+CSS+e+JavaScript+como+base;Python+e+SQL+como+complemento;Em+busca+do+primeiro+est%C3%A1gio">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1600&color=FFD000&center=true&vCenter=true&width=640&height=40&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;HTML%2C+CSS+e+JavaScript+como+base;Python+e+SQL+como+complemento;Em+busca+do+primeiro+est%C3%A1gio" alt="Estudante de Análise e Desenvolvimento de Sistemas">
+</picture>
 
----
+Contagem, MG · Buscando estágio ou vaga júnior em Belo Horizonte ou remoto
 
-### 🛠️ Tecnologias
+<a href="https://santisantos13.github.io/portfolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-FFD000?style=for-the-badge" alt="Portfólio"></a>
+<a href="https://www.linkedin.com/in/santsantos/"><img src="https://img.shields.io/badge/LinkedIn-1B1D3A?style=for-the-badge&logo=linkedin&logoColor=FFD000" alt="LinkedIn"></a>
+<a href="mailto:santiagosantos2021@gmail.com"><img src="https://img.shields.io/badge/E--mail-1B1D3A?style=for-the-badge&logo=gmail&logoColor=FFD000" alt="E-mail"></a>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+</div>
 
----
+## Sobre mim
 
-### 📌 Projeto em destaque
+Estou em transição de carreira para a tecnologia e construindo minha base em desenvolvimento web com **HTML, CSS e JavaScript**, com **Python** e **SQL** como conhecimentos complementares. Aprendo na prática, criando projetos e publicando aqui.
 
-#### 💰 [automacao-planilhas](https://github.com/santisantos13/automacao-planilhas)
+Antes da área de tecnologia, trabalhei com logística e atendimento ao público, onde desenvolvi organização, responsabilidade e cumprimento de prazos.
 
-**Pipeline de automação em Python (pandas) para consolidação de relatórios financeiros a partir de planilhas Excel.**
+## Tecnologias
 
-- Lê múltiplas abas (uma por mês) e faz a limpeza automática dos dados: remove cabeçalhos, linhas de resumo, datas inválidas e dias vazios
-- Consolida tudo em um relatório mensal com totais de ganhos, gastos, líquido e R$/km rodado
-- Exporta o resultado automaticamente para um novo arquivo Excel (`to_excel`)
-- Estruturado em funções reutilizáveis (`gerar_relatorio()` e `exportar_planilha()`) para facilitar manutenção e reuso
-- Meu primeiro projeto com pandas — construído do zero, aprendendo a biblioteca na prática, do pipeline até a publicação
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-1B1D3A?style=flat-square&logo=javascript&logoColor=FFD000" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-HTML5-1B1D3A?style=flat-square&logo=html5&logoColor=FFD000" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1B1D3A?style=flat-square&logo=css3&logoColor=FFD000" alt="CSS3">
+  <img src="https://img.shields.io/badge/-Python-1B1D3A?style=flat-square&logo=python&logoColor=FFD000" alt="Python">
+  <img src="https://img.shields.io/badge/-SQLite-1B1D3A?style=flat-square&logo=sqlite&logoColor=FFD000" alt="SQLite">
+  <img src="https://img.shields.io/badge/-Git-1B1D3A?style=flat-square&logo=git&logoColor=FFD000" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-1B1D3A?style=flat-square&logo=github&logoColor=FFD000" alt="GitHub">
+</p>
 
----
+## Projetos
 
-### 🧰 Outros projetos em destaque
+| Projeto | O que faz | Tecnologias | Links |
+|---|---|---|---|
+| **Gestão do Cachorro-Quente** | Controle financeiro de um negócio de cachorro-quente: ganhos, gastos, lucro e resumos por período, com exportação em CSV e backup em JSON | HTML, CSS, JavaScript | [Código](https://github.com/santisantos13/cachorro-quente-web) · [Demo](https://santisantos13.github.io/cachorro-quente-web/) |
+| **Automação de Planilhas** | Lê planilhas financeiras com uma aba por mês, trata dados inconsistentes, consolida os meses e exporta um relatório em Excel | Python, pandas | [Código](https://github.com/santisantos13/automacao-planilhas) |
+| **Task Tracker** | Lista de tarefas para adicionar, concluir e remover itens, com dados salvos no navegador | HTML, CSS, JavaScript | [Código](https://github.com/santisantos13/task-tracker-js) · [Demo](https://santisantos13.github.io/task-tracker-js/) |
+| **Gerenciador de Estoque** | Aplicação de terminal com CRUD de produtos e validação de entradas | Python | [Código](https://github.com/santisantos13/python-stock-manager) |
 
-#### 📦 [python-stock-manager](https://github.com/santisantos13/python-stock-manager)
+<div align="center">
+  <img src="assets/demo-cachorro-quente.gif" alt="Demonstração do projeto Gestão do Cachorro-Quente" width="720">
+</div>
+-->
 
-Sistema simples de gerenciamento de estoque em Python, feito para praticar lógica de programação e manipulação de dados.
+## Outros repositórios
 
-#### 🗄️ [CRUD com SQLite3](https://github.com/santisantos13/exercicios-python/blob/main/banco-de-dados/0_CRUD.py)
+- [CRUD com SQLite3](https://github.com/santisantos13/exercicios-python/blob/main/banco-de-dados/0_CRUD.py): gerenciamento de usuários com operações CRUD em SQLite
+- [exercicios-python](https://github.com/santisantos13/exercicios-python): prática diária de Python, organizada por tema
+- [tela-login-nexplay](https://github.com/santisantos13/sistema-login): telas de login e cadastro com HTML e CSS
 
-Sistema completo de gerenciamento de usuários com banco de dados SQLite3. Implementa as operações CRUD (Create, Read, Update, Delete) com código limpo e bem estruturado. Exemplo prático de integração com banco de dados em Python.
+<div align="center">
 
-#### ✅ Lista de tarefas construída com JavaScript puro e `localStorage`. [Ver demo](https://santisantos13.github.io/task-tracker-js/)
+Aberto a oportunidades. Vamos conversar!
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1B1D3A&height=90&section=footer" alt="" width="100%" />
 
-### 📚 Prática diária
-
-#### 🐍 [exercicios-python](https://github.com/santisantos13/exercicios-python)
-
-Repositório dedicado à prática diária dos meus estudos de Python, organizado por tema (lógica condicional, dicionários, funções, listas, banco de dados). Meu espaço de consistência e evolução contínua.
-
----
-
-### 🗂️ Outros projetos
-
-| Projeto | Descrição | Tecnologia |
-|---|---|---|
-| [portfolio](https://github.com/santisantos13/portfolio) | Meu portfólio pessoal, responsivo e com animações de rolagem | HTML, CSS, JavaScript |
-| [tela-login-nexplay](https://github.com/santisantos13/sistema-login) | Telas de login e cadastro com animações e transições | HTML, CSS |
-| [agenda-contatos-terminal](https://github.com/santisantos13/Agenda-_terminal) | Agenda de contatos executada via terminal | Python |
-| [sistema-bancario-terminal](https://github.com/santisantos13/Sistema-Banc-rio---Terminal-vers-o-1-) | Sistema bancário interativo — depósito, saque e saldo | Python |
-| [jogo-da-forca](https://github.com/santisantos13/Jogo_Forca) | Jogo da forca simples executado pelo terminal | Python |
-| [lampada](https://github.com/santisantos13/Lampada) | Teste rápido de lâmpada | JavaScript |
-
----
-
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=santisantos13&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santisantos13&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Contato
-
-📬 Aberto a oportunidades — vamos conversar!
-
-[![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-FFD000?style=flat-square&logoColor=black)](https://santisantos13.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santsantos/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/santisantos13)
+</div>
