@@ -40,13 +40,8 @@ Antes da área de tecnologia, trabalhei com logística e atendimento ao público
 |---|---|---|---|
 | **Gestão do Cachorro-Quente** | Controle financeiro de um negócio de cachorro-quente: ganhos, gastos, lucro e resumos por período, com exportação em CSV e backup em JSON | HTML, CSS, JavaScript | [Código](https://github.com/santisantos13/cachorro-quente-web) · [Demo](https://santisantos13.github.io/cachorro-quente-web/) |
 | **Automação de Planilhas** | Lê planilhas financeiras com uma aba por mês, trata dados inconsistentes, consolida os meses e exporta um relatório em Excel | Python, pandas | [Código](https://github.com/santisantos13/automacao-planilhas) |
-| **Task Tracker** | Lista de tarefas para adicionar, concluir e remover itens, com dados salvos no navegador | HTML, CSS, JavaScript | [Código](https://github.com/santisantos13/task-tracker-js) · [Demo](https://santisantos13.github.io/task-tracker-js/) |
+| **Lembrei!** | Gerenciador de tarefas estilo kanban com prioridade, prazo, busca e filtros, com dados salvos no navegador | HTML, CSS, JavaScript | [Código](https://github.com/santisantos13/gerenciador-tarefas) · [Demo](https://santisantos13.github.io/gerenciador-tarefas/) |
 | **Gerenciador de Estoque** | Aplicação de terminal com CRUD de produtos e validação de entradas | Python | [Código](https://github.com/santisantos13/python-stock-manager) |
-
-<div align="center">
-  <img src="assets/demo-cachorro-quente.gif" alt="Demonstração do projeto Gestão do Cachorro-Quente" width="720">
-</div>
--->
 
 ## Outros repositórios
 
