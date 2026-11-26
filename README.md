@@ -47,7 +47,7 @@ Antes da área de tecnologia, trabalhei com logística e atendimento ao público
 
 - [CRUD com SQLite3](https://github.com/santisantos13/exercicios-python/blob/main/banco-de-dados/0_CRUD.py): gerenciamento de usuários com operações CRUD em SQLite
 - [exercicios-python](https://github.com/santisantos13/exercicios-python): prática diária de Python, organizada por tema
-- [tela-login-nexplay](https://github.com/santisantos13/sistema-login): telas de login e cadastro com HTML e CSS
+- [NexPlay](https://github.com/santisantos13/sistema-cadastro): home, login e cadastro de uma loja fictícia, com HTML, CSS e um pouco de JavaScript
 
 <div align="center">
 
